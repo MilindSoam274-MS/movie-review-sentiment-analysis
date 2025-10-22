@@ -23,8 +23,11 @@ The methodology and results of this project were formally published in IEEE Xplo
 ## Dataset & Word Embeddings
 
 * **Dataset:** The project uses the well-known **IMDB Movie Review Dataset**, which contains 50,000 movie reviews evenly split into training and testing sets.
+   * [Link to Dataset on Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 * **Word Embeddings:**
     * **GloVe (Global Vectors for Word Representation):** Utilizes pre-trained word vectors to capture semantic relationships.
+         * [GloVe 6B 50d Embeddings](https://www.kaggle.com/datasets/watts2/glove6b50dtxt)
+         * [GloVe 6B 100d Embeddings](https://www.kaggle.com/datasets/danielwillgeorge/glove6b100dtxt)
     * **Word2Vec:** Another popular technique for learning word embeddings from text.
 
 ---
@@ -67,4 +70,5 @@ This repository includes several Jupyter Notebooks, each representing a differen
 * **TensorFlow / Keras**
 * **NumPy & Pandas**
 * **Scikit-learn**
+
 * **Jupyter Notebook**
